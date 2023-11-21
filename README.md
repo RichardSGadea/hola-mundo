@@ -1,2 +1,3 @@
 # hola-mundo
-pruebas
+
+# Esta es mi primera edición desde GeekHubs Academy.
